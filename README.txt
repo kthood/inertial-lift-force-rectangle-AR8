@@ -1,5 +1,9 @@
 README - INERTIAL MIGRATION RECTANGULAR CHANNEL AR=8 CODE
 Kaitlyn Hood 5/23/2017
+DOI: 10.5281/zenodo.833525
+
+Cite as:
+Kaitlyn Hood. (2017, July 21). kthood/inertial-lift-force-rectangle-AR8: First release of inertial lift force rectangle AR8. Zenodo. http://doi.org/10.5281/zenodo.833525
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 getLiftForce_AR8.m
